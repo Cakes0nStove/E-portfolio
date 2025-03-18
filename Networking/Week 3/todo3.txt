@@ -1,0 +1,13 @@
+
+
+
+
+
+
+1) skipped exercise 2
+2) take down time files were sent and recivved data
+3) So alot of the blunt work is taking time measurements,
+ we can afford to do this later.
+ 
+for now, i would like to focus on getting
+all the key activities completed.

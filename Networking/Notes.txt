@@ -1,0 +1,19 @@
+Okay so,
+
+E-Portfolio Checklist:
+
+1) Put my chatbot application into my work, it shows
+my experience using python
+
+2) Experiment with nmap on my own home network, try and 
+explore more into the ins and outs of the system. Not just that
+maybe even use dads garage for this???
+
+3) Place all my hand written notes onto my ipad
+just purely for better visuals.
+
+4) Make summary notes on all of the extra reading activites
+
+5) Add my notes into each folder so that my notes per week are nicely organised
+
+6) make sure to make a note at the top of each code which exercises each code covers
